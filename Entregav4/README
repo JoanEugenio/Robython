@@ -17,3 +17,12 @@
 	
 	EL CUBO SEMÁNTICO DEBE AMPLIARSE PARA AGREGAR LOS OTROS DOS OPERADORES && Y ||
 
+3)SE DEFINIERON CONDICIONES ESPECIALES A MOMENTO DE REALIZAR LA DEFINICIÓN DE VARIABLES Y FUNCIONES EN EL PROGRAMA: 
+	*Las funciones no pueden llamarse igual dentro del programa, aún y cuando su listado de parámetros y variables
+	asociadas sean distintas. 
+	*Las funciones no pueden llamarse igual que el programa principal. 
+	*Las variables globales o locales a una función no pueden llamarse igual dentro de su mismo bloque, aún y cuando
+	su tipo sea distinto. 
+	
+FALTANTES:
+	*Guardar los parámetros de las funciones y anexarlos al Directorio de Procedimientos. 
